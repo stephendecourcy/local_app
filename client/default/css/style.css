@@ -1,0 +1,17 @@
+body {
+  font-family:arial, sans-serif;
+  font-size:14px;
+}
+
+#red_button
+{ 
+background-color:red;
+}
+#green_button
+{ 
+background-color:green;
+}
+#run_button
+{ 
+background-color:blue;
+}
